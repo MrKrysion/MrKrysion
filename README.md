@@ -42,7 +42,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015<br>📚 I've worked on: [Amigo](https://discord.com/users/848554935758225448), [Funnybird](https://play.google.com/store/apps/details?id=com.nisaka.funnybird), [XOXD](https://play.google.com/store/apps/details?id=com.nisaka.xoxd)</p>
+<p align="left">✨ Creating bugs since 2015<br>📚 I've worked on:
+<a href="https://discord.com/users/848554935758225448" target="_blank">Amigo</a>, 
+<a href="https://play.google.com/store/apps/details?id=com.nisaka.funnybird" target="_blank">Funnybird</a>, 
+<a href="https://play.google.com/store/apps/details?id=com.nisaka.xoxd" target="_blank">XOXD</a>
+</p>
 
 ###
 
